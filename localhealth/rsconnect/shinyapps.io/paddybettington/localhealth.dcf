@@ -1,0 +1,12 @@
+name: localhealth
+title: localhealth
+username:
+account: paddybettington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 599397
+bundleId: 1733163
+url: https://paddybettington.shinyapps.io/localhealth/
+when: 1543694031.21298
+asMultiple: FALSE
+asStatic: FALSE
