@@ -1,7 +1,8 @@
 library(shiny)
 library(ggplot2)
+library(readr)
 
-health_vote_data <- read.csv("../localhealth/health_data_merged_with_election_results.csv")
+health_vote_data <- read_csv("../localhealth/health_data_merged_with_election_results.csv")
 
 
 indicator_columns = names(health_vote_data)[4:74]
